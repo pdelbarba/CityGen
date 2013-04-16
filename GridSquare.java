@@ -1,0 +1,3 @@
+public enum GridSquare {
+	ROAD_H, ROAD_V, INTERSECTION, BUILDING_2, BUILDING_3, TREES
+}
